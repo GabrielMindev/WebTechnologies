@@ -1,0 +1,22 @@
+{
+  "name": "web-tech-project",
+  "version": "1.0.0",
+  "description": "\"This is a startup project for Web Tech course",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GabrielMindev/WebTechnologies.git"
+  },
+  "author": "\"Gabriel Mindev\"",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GabrielMindev/WebTechnologies/issues"
+  },
+  "homepage": "https://github.com/GabrielMindev/WebTechnologies#readme",
+  "dependencies": {
+    "yarn": "^1.22.10"
+  }
+}
